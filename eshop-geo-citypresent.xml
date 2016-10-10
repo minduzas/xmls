@@ -62,12 +62,12 @@
 	</product>
 	<product>
 		<product_id>6</product_id>
-		<product_name>Kaunas: Pimped comb</product_name>
+		<product_name>Kaunas: id = 2</product_name>
 		<product_category_id>Good Ideas</product_category_id>
 		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=6</product_deeplink>
 		<product_image>http://files.adform.net/Banners/Stream/images/pimped-comb.jpg</product_image>
 		<product_price>90.00</product_price>
-		<product_city>12434</product_city>
+		<product_city>2</product_city>
 		<product_region>25709</product_region>
 		<product_country>440</product_country>
 		<product_fallback>false</product_fallback>
