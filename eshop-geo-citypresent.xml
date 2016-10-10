@@ -142,18 +142,6 @@
 		<product_fallback>true</product_fallback>
 	</product>
 	<product>
-		<product_id>16</product_id>
-		<product_name>Kaunas: wrong city or region</product_name>
-		<product_category_id>Clothes</product_category_id>
-		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=10</product_deeplink>
-		<product_image>http://files.adform.net/Banners/Stream/images/winter-wear.jpg</product_image>
-		<product_price>400.00</product_price>
-		<product_city>12s434</product_city>
-		<product_region>257a09</product_region>
-		<product_country>440</product_country>
-		<product_fallback>true</product_fallback>
-	</product>
-	<product>
 		<product_id>17</product_id>
 		<product_name>Jonava:winter-wear</product_name>
 		<product_category_id>Clothes</product_category_id>
