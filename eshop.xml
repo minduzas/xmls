@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+	<product>
+		<product_id>1</product_id>
+		<product_name>Head saver</product_name>
+		<product_brand>Head</product_brand>
+		<product_category_id>Good Ideas</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=1</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/head-saver.jpg</product_image>
+		<product_price>90.00</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>100.00</product_oldprice>
+	</product>
+	<product>
+		<product_id>2</product_id>
+		<product_name>Diet belt</product_name>
+		<product_brand>Long Belt</product_brand>
+		<product_category_id>Good Ideas</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=2</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/diet-belt.jpg</product_image>
+		<product_price>10.50</product_price>
+		<product_discount>1.00</product_discount>
+		<product_oldprice>11.50</product_oldprice>
+	</product>
+	<product>
+		<product_id>3</product_id>
+		<product_name>Washing boots</product_name>
+		<product_brand>Smart Shoe</product_brand>
+		<product_category_id>Good Ideas</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=3</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/washing-boots.jpg</product_image>
+		<product_price>30.20</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>30.20</product_oldprice>
+	</product>
+	<product>
+		<product_id>4</product_id>
+		<product_name>Dream pillow</product_name>
+		<product_brand>Sweat Dreams</product_brand>
+		<product_category_id>Good Ideas</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=4</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/dream-pillow.jpg</product_image>
+		<product_price>150.00</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>160.00</product_oldprice>
+	</product>
+	<product>
+		<product_id>5</product_id>
+		<product_name>Time killer</product_name>
+		<product_brand>Don't waste time</product_brand>
+		<product_category_id>Good Ideas</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=5</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/time-killer.jpg</product_image>
+		<product_price>9.99</product_price>
+		<product_discount>0.01</product_discount>
+		<product_oldprice>10.00</product_oldprice>
+	</product>
+	<product>
+		<product_id>6</product_id>
+		<product_name>Pimped comb</product_name>
+		<product_brand>BeOK</product_brand>
+		<product_category_id>Good Ideas</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=6</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/pimped-comb.jpg</product_image>
+		<product_price>9.09</product_price>
+		<product_discount>2.00</product_discount>
+		<product_oldprice>11.09</product_oldprice>
+	</product>
+	<product>
+		<product_id>7</product_id>
+		<product_name>AB Hancer</product_name>
+		<product_brand>SPORTIS</product_brand>
+		<product_category_id>Good Ideas</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=7</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/ab-hancer.jpg</product_image>
+		<product_price>177.77</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>187.77</product_oldprice>
+	</product>
+	<product>
+		<product_id>8</product_id>
+		<product_name>Camera holder</product_name>
+		<product_brand>SmartStuff</product_brand>
+		<product_category_id>Good Ideas</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=8</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/camera-holder.jpg</product_image>
+		<product_price>20.50</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>30.50</product_oldprice>
+	</product>
+	<product>
+		<product_id>9</product_id>
+		<product_name>Door lock</product_name>
+		<product_brand>Think Smart</product_brand>
+		<product_category_id>Good Ideas</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=9</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/door-lock.jpg</product_image>
+		<product_price>34.70</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>44.77</product_oldprice>
+	</product>
+	<product>
+		<product_id>10</product_id>
+		<product_name>Winter wear</product_name>
+		<product_brand>Defrost</product_brand>
+		<product_category_id>Good Ideas</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=10</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/winter-wear.jpg</product_image>
+		<product_price>400.00</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>410.00</product_oldprice>
+	</product>
+	<product>
+		<product_id>11</product_id>
+		<product_name>Can opener</product_name>
+		<product_brand>Little Kitchen Helpers</product_brand>
+		<product_category_id>Kitchen goods</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=11</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/can_opener.jpg</product_image>
+		<product_price>10.50</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>20.50</product_oldprice>
+	</product>
+	<product>
+		<product_id>12</product_id>
+		<product_name>Cookie cutters</product_name>
+		<product_brand>Little Kitchen Helpers</product_brand>
+		<product_category_id>Kitchen goods</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=12</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/cookie_cutters.jpg</product_image>
+		<product_price>24.80</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>34.80</product_oldprice>
+	</product>
+	<product>
+		<product_id>13</product_id>
+		<product_name>Oven mitts</product_name>
+		<product_brand>Little Kitchen Helpers</product_brand>
+		<product_category_id>Kitchen goods</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=13</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/oven_mitts.jpg</product_image>
+		<product_price>5.99</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>15.99</product_oldprice>
+	</product>
+	<product>
+		<product_id>14</product_id>
+		<product_name>Plates</product_name>
+		<product_brand>Little Kitchen Helpers</product_brand>
+		<product_category_id>Kitchen goods</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=14</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/plates.jpg</product_image>
+		<product_price>8.99</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>18.99</product_oldprice>
+	</product>
+	<product>
+		<product_id>15</product_id>
+		<product_name>Macbook Pro</product_name>
+		<product_brand>Think Smart</product_brand>
+		<product_category_id>Computers</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=15</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/macbook.png</product_image>
+		<product_price>2999.00</product_price>
+		<product_discount>10.01</product_discount>
+		<product_oldprice>3000.00</product_oldprice>
+	</product>
+	<product>
+		<product_id>16</product_id>
+		<product_name>Sony vaio</product_name>
+		<product_brand>Think Smart</product_brand>
+		<product_category_id>Computers</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=16</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/sony-vaio.png</product_image>
+		<product_price>1989.00</product_price>
+		<product_discount>20.00</product_discount>
+		<product_oldprice>2009.00</product_oldprice>
+	</product>
+	<product>
+		<product_id>17</product_id>
+		<product_name>Toshiba Satelite</product_name>
+		<product_brand>Think Smart</product_brand>
+		<product_category_id>Computers</product_category_id>
+		<product_deeplink>http://dcodemo.adform.com/eshop/?product_id=17</product_deeplink>
+		<product_image>http://files.adform.net/Banners/Stream/images/toshiba-satelite.png</product_image>
+		<product_price>1569.00</product_price>
+		<product_discount>10.00</product_discount>
+		<product_oldprice>1579.77</product_oldprice>
+	</product>
+</products>
